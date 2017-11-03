@@ -1,6 +1,4 @@
-/**
- * Created by avvinash on 11/2/2017.
- */
+
 import React from 'react';
 
 class MainApp extends React.Component{
